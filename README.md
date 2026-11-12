@@ -19,6 +19,10 @@ novice players. Analyzing the data collected from the eyetrackers and body senso
 they might improve their performance as well.
 
 
+## Poster for Colby Undergraduate Summer Research Retreat 2021
+![Poster](VR-Chess-Poster.png)
+
+
 ## Demo
 
 [Link to environment Demo](https://drive.google.com/file/d/1my4Mqoo5p2ORt3tj5HSxFIJ5Xy8Fu274/view)
